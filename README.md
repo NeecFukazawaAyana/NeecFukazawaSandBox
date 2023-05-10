@@ -1,2 +1,2 @@
-# NeecFukazawaSandBox
-説明の説明
+# NEEC_GameCG
+ 
